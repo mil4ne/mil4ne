@@ -1,9 +1,11 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+<h1 style="text-align: center; color: #7744ff;">Whoami</h1>
 
-::github{repo="saicaca/fuwari"}
+<p align="center">¡Hola! Soy Mil4ne y me dedico a explorar el mundo del pentesting (Hacking). Actualmente, estoy aprendiendo de forma autodidacta a través de HTB Academy y otras plataformas, me encantan los desafíos y resolver problemas complejos.</p>
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+<p align="center">Siempre estoy en busca de nuevos retos y oportunidades para seguir aprendiendo y creciendo en el mundo de la ciberseguridad. ¡Si te interesa hablar de hacking, programación o simplemente compartir ideas, no dudes en ponerte en contacto!</p>
+
+<h1 style="text-align: center; color: #7744ff;">Certificaciones</h1>
+<p align="center">
+    <img src="/ejpt.png" width="200" alt="Descripción de la imagen">
+</p>
+
