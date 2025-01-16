@@ -3,7 +3,7 @@ title: Devvortex HTB Writeup
 published: 2024-02-12
 description: 'Encontramos un Joomla vulnerable a CVE-2023-23752, esto nos permite ver Credenciales de administrator.'
 image: 'image.png'
-tags: [Easy, Linux]
+tags: [Easy, Linux, Joomla]
 category: 'HackTheBox'
 draft: false 
 ---
