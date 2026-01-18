@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I am mil4ne
 
-<!--
-**mil4ne/mil4ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 22 years old.
 
-Here are some ideas to get you started:
+- 🔴 Red Team / Hacking  
+- 🐍 Python3  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build **scripts**, **PoCs**, and **labs** focused on offensive security.
+
+### Projects
+- **[Pocland](https://pocland.com/)** → The Underground Exploit Database
+- **[Hacking Blog](https://mil4ne.xyz/)** → Personal Hacking blog
+
+### Collaborations
+- 🤝 **[Adaptix C2](https://github.com/Adaptix-Framework/AdaptixC2)**
+- 🤝 **[RedTeamRD](https://redteamrd.org/)**
+
+---
+*"Break, understand, repeat."*
+
+
