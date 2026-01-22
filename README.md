@@ -2,10 +2,13 @@
 
 I am 22 years old.
 
-- 🔴 Red Team / Hacking  
-- 🐍 Python3  
+- 🔴 Red Team / Hacking / Writer 
 
 I build **scripts**, **PoCs**, and **labs** focused on offensive security.
+
+### Languages & Technologies
+
+- 🐍 Python3 
 
 ### Projects
 - **[Pocland](https://pocland.com/)** → The Underground Exploit Database
