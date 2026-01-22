@@ -18,7 +18,5 @@ I build **scripts**, **PoCs**, and **labs** focused on offensive security.
 - 🤝 **[Adaptix C2](https://github.com/Adaptix-Framework/AdaptixC2)**
 - 🤝 **[RedTeamRD](https://redteamrd.org/)**
 
----
-*"Break, understand, repeat."*
 
 
