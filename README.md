@@ -2,7 +2,7 @@
 
 I am 22 years old.
 
-- 🔴 Red Team / Hacking / Writer 
+- Hacking / Writer / Dev
 
 I build **scripts**, **PoCs**, and **labs** focused on offensive security.
 
