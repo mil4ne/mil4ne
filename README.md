@@ -1,9 +1,5 @@
 # Hi, I am mil4ne
 
-I am 22 years old.
-
-- Hacking / Writer / Dev
-
 I build **scripts**, **PoCs**, and **labs** focused on offensive security.
 
 ### Languages & Technologies
