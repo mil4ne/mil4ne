@@ -8,7 +8,7 @@ I build **scripts**, **PoCs**, and **labs** focused on offensive security.
 
 ### Projects
 - **[Pocland](https://pocland.com/)** → The Underground Exploit Database
-- **[Hacking Blog](https://mil4ne.xyz/)** → Personal Hacking blog
+- **[Personal Blog](https://mil4ne.xyz/)** → Personal blog
 
 ### Collaborations
 - 🤝 **[Adaptix C2](https://github.com/Adaptix-Framework/AdaptixC2)**
